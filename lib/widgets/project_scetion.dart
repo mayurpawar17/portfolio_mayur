@@ -14,22 +14,32 @@ class ProjectsSection extends StatelessWidget {
       {
         'title': 'Video-Ocean Video Agent',
         'date': 'Jun. 2025 - Present',
-        'image': 'assets/bmi_bg.png',
+        'image':
+            'https://raw.githubusercontent.com/mayurpawar17/published-apps-resources/main/BmiFitIndexPro/bmi-fitindex-pro-mockup-1.png',
       },
       {
-        'title': 'Open-Sora',
-        'date': 'Mar. 2024 - Mar. 2025',
-        'image': 'assets/bmi_bg.png',
+        'title': 'Video-Ocean Video Agent',
+        'date': 'Jun. 2025 - Present',
+        'image':
+            'https://raw.githubusercontent.com/mayurpawar17/published-apps-resources/main/BmiFitIndexPro/bmi-fitindex-pro-mockup-1.png',
       },
       {
-        'title': 'Video-Ocean',
-        'date': 'Apr. 2025 - Present',
-        'image': 'assets/bmi_bg.png',
+        'title': 'Video-Ocean Video Agent',
+        'date': 'Jun. 2025 - Present',
+        'image':
+            'https://raw.githubusercontent.com/mayurpawar17/published-apps-resources/main/BmiFitIndexPro/bmi-fitindex-pro-mockup-1.png',
       },
       {
-        'title': 'Video-Ocean',
-        'date': 'Apr. 2025 - Present',
-        'image': 'assets/bmi_bg.png',
+        'title': 'Video-Ocean Video Agent',
+        'date': 'Jun. 2025 - Present',
+        'image':
+            'https://raw.githubusercontent.com/mayurpawar17/published-apps-resources/main/BmiFitIndexPro/bmi-fitindex-pro-mockup-1.png',
+      },
+      {
+        'title': 'Video-Ocean Video Agent',
+        'date': 'Jun. 2025 - Present',
+        'image':
+            'https://raw.githubusercontent.com/mayurpawar17/published-apps-resources/main/BmiFitIndexPro/bmi-fitindex-pro-mockup-1.png',
       },
     ];
 

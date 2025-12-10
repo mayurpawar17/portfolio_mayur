@@ -22,11 +22,11 @@ class ProjectCard extends StatelessWidget {
         children: [
           ClipRRect(
             borderRadius: const BorderRadius.vertical(top: Radius.circular(12)),
-            child: Image.asset(
+            child: Image.network(
               image,
-              fit: BoxFit.cover,
-              height: 150,
-              width: double.infinity,
+              fit: BoxFit.contain,
+              // height: 150,
+              // width: double.infinity,
             ),
           ),
           Padding(

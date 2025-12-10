@@ -34,7 +34,7 @@ class HeroSection extends StatelessWidget {
                   ),
                   const SizedBox(height: 8),
                   Text(
-                    'Full Stack Developer & AI Researcher',
+                    'Full Stack Developer',
                     style: TextStyle(fontSize: 16, color: Colors.grey[600]),
                   ),
                   const SizedBox(height: 24),
@@ -60,12 +60,12 @@ class HeroSection extends StatelessWidget {
 
             // avatar
             Expanded(
-              flex: 3,
+              // flex: 2,
               child: Align(
                 alignment: Alignment.centerRight,
                 child:
                     CircleAvatar(
-                      radius: 64,
+                      radius: 100,
                       backgroundImage: const AssetImage('assets/profile.png'),
                     ).animate().scaleXY(begin: 0.9, duration: 500.ms).fadeIn(),
               ),
@@ -82,7 +82,7 @@ class HeroSection extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.center,
         children: [
           CircleAvatar(
-            radius: 48,
+            radius: 70,
             backgroundImage: const AssetImage('assets/profile.png'),
           ).animate().scaleXY(begin: 0.9, duration: 500.ms).fadeIn(),
 
@@ -97,7 +97,7 @@ class HeroSection extends StatelessWidget {
           const SizedBox(height: 8),
 
           Text(
-            'Full Stack Developer & AI Researcher',
+            'Full Stack Developer',
             textAlign: TextAlign.center,
             style: TextStyle(fontSize: 15, color: Colors.grey[600]),
           ),
