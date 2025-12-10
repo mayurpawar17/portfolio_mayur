@@ -10,21 +10,16 @@ class EducationSection extends StatelessWidget {
 
   final items = [
     {
-      'title': 'National University of Singapore',
-      'subtitle': 'Ph.D. in Computer Science',
-      'years': '2021 - 2025',
-      'logo': 'assets/bmi_bg.png',
-    },
-    {
-      'title': 'Nanjing University',
+      'title': 'Dr.Babasaheb Ambedkar Technological University',
       'subtitle': 'Bachelor\'s Degree of Computer Science',
-      'years': '2017 - 2021',
+      'years': '2021 - 2024',
       'logo': 'assets/bmi_bg.png',
     },
     {
-      'title': 'Jiangsu Xishan Senior High School',
-      'subtitle': 'High School Diploma',
-      'years': '2014 - 2017',
+      'title':
+          "Sant Jagnade Maharaj Shikshan Mandal's Art's, Commerce & Science Jr. & Sr. College",
+      'subtitle': 'College ',
+      'years': '2018 - 2020',
       'logo': 'assets/bmi_bg.png',
     },
   ];

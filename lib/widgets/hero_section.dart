@@ -82,7 +82,7 @@ class HeroSection extends StatelessWidget {
         crossAxisAlignment: CrossAxisAlignment.center,
         children: [
           CircleAvatar(
-            radius: 70,
+            radius: 100,
             backgroundImage: const AssetImage('assets/profile.png'),
           ).animate().scaleXY(begin: 0.9, duration: 500.ms).fadeIn(),
 

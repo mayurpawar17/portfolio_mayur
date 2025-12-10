@@ -8,19 +8,9 @@ class ExperienceSection extends StatelessWidget {
 
   final items = [
     {
-      'title': 'HPC-AI Tech',
-      'role': 'Tech Lead',
-      'date': 'Dec. 2024 - Present',
-    },
-    {
-      'title': 'Bytedance',
-      'role': 'Research Intern',
-      'date': 'Jun. 2021 - Jun. 2022',
-    },
-    {
-      'title': 'UC Berkeley',
-      'role': 'Research Intern',
-      'date': 'Apr. 2020 - May. 2021',
+      'title': 'Kapil IT Solutions',
+      'role': 'Flutter Developer Internship',
+      'date': 'Jun. 2025 - Present',
     },
   ];
 
